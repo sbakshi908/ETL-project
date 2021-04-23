@@ -29,5 +29,7 @@ Court_Type: The type of the surface of the game (clay, hard …etc)
 Tournament: The name of the tournament in which the game is played.
 
 
-2. 
-3. 
+2. wikipedia pages for each major tennis tournament were scrubbed and the table with the most recent champs was pulled 
+
+3. api - https://rapidapi.com/sportcontentapi/api/tennis-live-data/endpoints 
+Using the Get Matched by date i can call this API and retrieve all the matched on the chosen day

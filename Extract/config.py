@@ -1,3 +1,3 @@
 rapid_api_key = "your key"
-cloudM = "yourpass"
-cloudMpassword = "yourpass"
+cloudM = "your user ID"
+cloudMpassword = "your password"
