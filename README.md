@@ -30,6 +30,10 @@ Tournament: The name of the tournament in which the game is played.
 
 
 2. wikipedia pages for each major tennis tournament were scrubbed and the table with the most recent champs was pulled 
+US open - https://en.wikipedia.org/wiki/US_Open_(tennis)
+French Open - https://en.wikipedia.org/wiki/French_Open
+Australian Open - https://en.wikipedia.org/wiki/Australian_Open
+Wimbledon - https://en.wikipedia.org/wiki/The_Championships,_Wimbledon 
 
 3. api - https://rapidapi.com/sportcontentapi/api/tennis-live-data/endpoints 
 Using the Get Matched by date i can call this API and retrieve all the matched on the chosen day
